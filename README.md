@@ -12,7 +12,7 @@ A high performance, open source Python code library for economics
 [![Coverage Status](https://coveralls.io/repos/QuantEcon/QuantEcon.py/badge.svg)](https://coveralls.io/r/QuantEcon/QuantEcon.py)
 [![Documentation Status](https://readthedocs.org/projects/quanteconpy/badge/?version=latest)](https://quanteconpy.readthedocs.io/en/latest/?badge=latest)
 
-## Installation
+# Installation
 
 Before installing `quantecon` we recommend you install the [Anaconda](https://www.anaconda.com/download/) Python distribution, which includes a full suite of scientific python tools. **Note:** `quantecon` is now only supporting Python version 3.5+. This is mainly to allow code to be written taking full advantage of new features such as using the `@` symbol for matrix multiplication. Therefore please install the latest Python 3 Anaconda distribution.
 
@@ -20,7 +20,7 @@ Next you can install quantecon by opening a terminal prompt and typing
 
     pip install quantecon
 
-## Usage
+# Usage
 
 Once `quantecon` has been installed you should be able to import it as follows:
 
@@ -38,7 +38,7 @@ If your version is below what’s available on [PyPI](https://pypi.python.org/p
 
     pip install --upgrade quantecon
 
-## Examples and Sample Code
+# Examples and Sample Code
 
 Many examples of QuantEcon.py in action can be found at [Quantitative Economics](https://lectures.quantecon.org/). See also the
 
@@ -47,7 +47,7 @@ Many examples of QuantEcon.py in action can be found at [Quantitative Economics
 
 QuantEcon.py is supported financially by the [Alfred P. Sloan Foundation](http://www.sloan.org/) and is part of the [QuantEcon organization](https://quantecon.org).
 
-## Downloading the `quantecon` Repository
+# Downloading the `quantecon` Repository
 
 An alternative is to download the sourcecode of the `quantecon` package and install it manually from [the github repository](https://github.com/QuantEcon/QuantEcon.py/). For example, if you have git installed type
 
